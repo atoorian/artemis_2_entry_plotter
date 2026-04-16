@@ -1,6 +1,3 @@
-<img width="330" height="717" alt="IMG_8695" src="https://github.com/user-attachments/assets/c1013a63-dee2-4b5f-9683-508844f552bf" /># artemis_2_entry_plotter
-
-
 My friend kept sending me conspiracy theory reels flat earther influencers.  Pretty sure he is just trolling me, but just in case I decided to make a tool to generate an Google Earth KML file from the Artemis II Entry ephemeris file on the NASA page.
 
 https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/
@@ -40,3 +37,4 @@ https://www.youtube.com/watch?app=desktop&v=Pp9Yax8UNoM
 <img width="330" height="717" alt="IMG_8696" src="https://github.com/user-attachments/assets/c4b1b7e1-f3e8-4566-8b53-6f4d0c647c8a" />
 <img width="330" height="717" alt="IMG_8695" src="https://github.com/user-attachments/assets/c3a6a852-0d15-48ea-95ce-238972f2a40b" />
 <img width="330" height="717" alt="IMG_8694" src="https://github.com/user-attachments/assets/660b7406-cb71-4251-b1b1-0b9eeac307fa" />
+<img width="330" height="717" alt="IMG_8695" src="https://github.com/user-attachments/assets/c1013a63-dee2-4b5f-9683-508844f552bf" />
