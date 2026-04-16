@@ -19,7 +19,7 @@ Here's the text message thread for your enjoyment:
 
 Ok XXXXXX I am very worried about your fragile mind being sucked in to the conspiracy theory rabbit hole.  So here goes…non-flat-earthers, feel free to tune out.  Reason’s why those videos are made by idiots:
 
-1. He claims that at 25,000mph be half way across the world in 10 minutes.  He’s right!  But even his 30 second google AI answer says that’s true ONLY IF YOU DON’T ACCOUNT FOR DECELERATION.  As soon as Orion hits the atmosphere, it experiences crazy amounts of deceleration.  About 3.9 G’s at the peak.  I took the liberty of downloading the Artemis II ephemeris file…the file that has all the radar tracking data of space objects.  I used Gemini to help me write a python script that will take that data, convert it from an inertial reference frame to latitude, longitude, and altitude, and from there it generates a KML file that you load into google earth.
+1. He claims that at 25,000mph be half way across the world in 17 minutes.  He’s right!  But even his 30 second google AI answer says that’s true ONLY IF YOU DON’T ACCOUNT FOR DECELERATION.  As soon as Orion hits the atmosphere, it experiences crazy amounts of deceleration.  About 3.9 G’s at the peak.  I took the liberty of downloading the Artemis II ephemeris file…the file that has all the radar tracking data of space objects.  I used Gemini to help me write a python script that will take that data, convert it from an inertial reference frame to latitude, longitude, and altitude, and from there it generates a KML file that you load into google earth.
 
 https://earth.google.com/earth/d/1ZuynG8EvG_PnrAVlfprr-r49wpf0DxnL?usp=sharing
 https://github.com/atoorian/artemis_2_entry_plotter/tree/main
@@ -33,8 +33,3 @@ https://www.youtube.com/watch?app=desktop&v=Pp9Yax8UNoM
 
 5. There must be a camera man hiding in the studio set, filming these 4 “astronauts”, and then magically panning over to look out of the “window” at the “earth.”  Well, there’s no possible way it could have randomly ended in that position, especially if they probably tried it 10 times to get it right.  So….it must all be fake!  The earth is not round!! WE’VE NEVER BEEN TO SPACE!!!  It’s all a simulation………………
 
-
-<img width="330" height="717" alt="IMG_8696" src="https://github.com/user-attachments/assets/c4b1b7e1-f3e8-4566-8b53-6f4d0c647c8a" />
-<img width="330" height="717" alt="IMG_8695" src="https://github.com/user-attachments/assets/c3a6a852-0d15-48ea-95ce-238972f2a40b" />
-<img width="330" height="717" alt="IMG_8694" src="https://github.com/user-attachments/assets/660b7406-cb71-4251-b1b1-0b9eeac307fa" />
-<img width="330" height="717" alt="IMG_8695" src="https://github.com/user-attachments/assets/c1013a63-dee2-4b5f-9683-508844f552bf" />
